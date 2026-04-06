@@ -1,0 +1,17 @@
+{
+    "name": "agentic",
+    "owner": {
+      "name": "Mark Lanett"
+    },
+    "metadata": {
+      "description": "Spec-driven development practices and architecture patterns"
+    },
+    "plugins": [
+      {
+        "name": "agentic",
+        "source": "./",
+        "description": "Spec-driven development practices, architecture guides, and agentic patterns"
+      }
+    ]
+  }
+  

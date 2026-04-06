@@ -1,0 +1,21 @@
+{
+  "name": "agentic",
+  "version": "1.0.0",
+  "description": "Personal agent skills: TDD and testing, Python linting/type-checking and packaging, date/time types, and brainstorming.",
+  "author": {
+    "name": "Mark Lanett"
+  },
+  "repository": "https://github.com/mlanett/agentic",
+  "keywords": [
+    "skills",
+    "testing",
+    "tdd",
+    "python",
+    "linting",
+    "type-checking",
+    "packaging",
+    "datetime",
+    "brainstorm"
+  ],
+  "skills": "./skills/"
+}
